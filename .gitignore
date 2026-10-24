@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.py[cod]
+instance/
+*.db
+app/static/uploads/*
+!app/static/uploads/.gitkeep
+app/static/generated/*
+!app/static/generated/.gitkeep
